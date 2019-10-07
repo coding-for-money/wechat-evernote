@@ -1,0 +1,2 @@
+# wechat-evernote
+python爬虫爬取微信聊天记录并更新到印象笔记evernote

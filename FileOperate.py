@@ -1,5 +1,6 @@
 # encoding: utf-8
-import sys, re,os
+import os
+import re
 
 '''
 @author:llj

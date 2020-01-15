@@ -1,9 +1,12 @@
 #encoding:utf-8
+import datetime
+import os
 import shutil
+import sys
+import time
+
 from NoteOperator import NoteOperator
-import time,datetime
-import os,sys
-import chardet
+
 '''
 @author:llj
 项目模块2：

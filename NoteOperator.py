@@ -1,9 +1,14 @@
 # coding=utf-8
-import sys, hashlib, re, time,mimetypes,os
-import evernote.edam.type.ttypes as Types
-import evernote.edam.notestore.NoteStore as NoteStore
-import chardet
+import hashlib
+import mimetypes
+import os
+import re
+import sys
+
 import Client_Production
+import evernote.edam.notestore.NoteStore as NoteStore
+import evernote.edam.type.ttypes as Types
+
 '''
 @author:llj
 笔记本操作模块

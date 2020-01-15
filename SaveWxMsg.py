@@ -1,9 +1,14 @@
 #encoding: utf-8
-import sys, re, time,os
-import itchat
+import os
+import re
 import shutil
-from FileOperate import FileOperate
+import sys
+import time
+
+import itchat
 from itchat.content import *
+
+from FileOperate import FileOperate
 
 '''
 @author:llj
